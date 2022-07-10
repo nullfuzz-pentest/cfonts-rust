@@ -1,6 +1,6 @@
 extern crate cfonts;
 // By Nullfuzz 
-use cfonts::{ say, Options, Align, BgColors, Colors, Env, Fonts, Rgb };
+use cfonts::{ say, Options, Align, BgColors, Colors, Env, Fonts};
 
 fn main() {
 	say(Options {
